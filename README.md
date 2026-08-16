@@ -13,3 +13,7 @@ This Repository is an abstraction of the research work on medical image data and
 * Refer paper they have been given
 * Guide them on how to implement the given code
 * Guide them how to replace the block with BEV (Bionic Eagle Vision_
+
+
+### 17-08-2026:
+* **Meet sir at 430 and guide the juniors**
