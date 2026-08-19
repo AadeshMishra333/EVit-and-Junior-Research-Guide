@@ -18,4 +18,4 @@ This Repository is an abstraction of the research work on medical image data and
 ### 17-08-2026:
 * **Meet sir at 430 and guide the juniors**
 * > Mamba me pehle equations then code pe jana
-* We have to ensure junior's codes run on terminal by today (17-08-2026)
+* We have to ensure junior's codes run on terminal by today (17-08-2026) _Done_
