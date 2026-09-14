@@ -17,9 +17,9 @@
 
 ### What models are there?
 * Bhaiya model - ERSUnet, don't have much understanding of it
-* Juniors Model - _______, Need to understand it once [1]
+* Juniors Model - _______, Need to understand it once **[1]**
 
 ### Resources?
 * Param Utkarsh setup of Bhaiya Paper directory ERSUNet
-* Param Utkarsh setup of juniors paper directory [2]
-* Param Utkarsh Quick setup guide for sir laptop...pipeline from start to end [3]
+* Param Utkarsh setup of juniors paper directory **[2]**
+* Param Utkarsh Quick setup guide for sir laptop...pipeline from start to end **[3]**
