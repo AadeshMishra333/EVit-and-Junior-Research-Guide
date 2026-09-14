@@ -19,3 +19,8 @@ This Repository is an abstraction of the research work on medical image data and
 * **Meet sir at 430 and guide the juniors**
 * > Mamba me pehle equations then code pe jana
 * We have to ensure junior's codes run on terminal by today (17-08-2026) _Done_
+
+### 14-09-2026:
+* Try to run the Juniors codes - First understand their work (brief)
+* Ready the Tables for CSAE net to present to sir
+* Make an execution pipeline for sir to execute on his slurm
