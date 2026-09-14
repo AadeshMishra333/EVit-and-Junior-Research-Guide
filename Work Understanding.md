@@ -17,7 +17,7 @@
 
 ### What models are there?
 * Bhaiya model - ERSUnet, don't have much understanding of it
-* Juniors Model - _______, Need to understand it once **[1]**
+* Juniors Model - MSHF-EagleFormer-CD, Need to understand it once **[1]**
 
 ### Resources?
 * Param Utkarsh setup of Bhaiya Paper directory ERSUNet
