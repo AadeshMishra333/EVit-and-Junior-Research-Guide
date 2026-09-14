@@ -21,6 +21,6 @@ This Repository is an abstraction of the research work on medical image data and
 * We have to ensure junior's codes run on terminal by today (17-08-2026) _Done_
 
 ### 14-09-2026:
-* Try to run the Juniors codes - First understand their work (brief)
+* Try to run the Juniors codes - First understand their work (brief) **TASK EXPLAINED IN DETAIL IN [THIS](https://github.com/AadeshMishra333/EVit-and-Junior-Research-Guide/blob/main/Work%20Understanding.md) FOLDER**
 * Ready the Tables for CSAE net to present to sir
 * Make an execution pipeline for sir to execute on his slurm
