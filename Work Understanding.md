@@ -16,7 +16,7 @@
   - We have to reduce Gflops, Parameters while maintaining the metrics
 
 ### What models are there?
-* Bhaiya model - ERSUnet, don't have much understanding of it
+* Bhaiya model - ERSUnet, don't have much understanding of it (using the ERDUnet baseline, trying to beat the same paper as juniors)
 * Juniors Model - MSHF-EagleFormer-CD, Need to understand it once **[1]**
 
 ### Resources?
