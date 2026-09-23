@@ -28,7 +28,7 @@
 
 ### Runtime TO DO:
 - [ ] In my paper - TTA set of operation likhna hai, Show the all model table without TTA on CSA-E Net, Write SAUnet in pytorch and find the inference time 
-- [ ] In Juniors paper - Edit the model to run 32 batche size, run the evaluation
+- [ ] In Juniors paper - Edit the model to run 32 batche size, run the evaluation(here done)
 
 ### Expected Outcomes-Jai Shree Krishna🙏:
 Paper 1: CSAE Net
