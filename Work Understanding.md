@@ -18,8 +18,22 @@
 ### What models are there?
 * Bhaiya model - ERSUnet, don't have much understanding of it (using the ERDUnet baseline, trying to beat the same paper as juniors)
 * Juniors Model - MSHF-EagleFormer-CD, Need to understand it once **[1]**
+* CSA-E net
+* Nilay Net
 
 ### Resources?
 * Param Utkarsh setup of Bhaiya Paper directory ERSUNet
 * Param Utkarsh setup of juniors paper directory **[2]**
 * Param Utkarsh Quick setup guide for sir laptop...pipeline from start to end **[3]**
+
+### Runtime TO DO:
+- [ ] In my paper - TTA set of operation likhna hai, Show the all model table without TTA on CSA-E Net, Write SAUnet in pytorch and find the inference time 
+- [ ] In Juniors paper - Edit the model to run 32 batche size, run the evaluation
+
+### Expected Outcomes-Jai Shree Krishna🙏:
+Paper 1: CSAE Net
+Paper 2: Juniors MSHF
+Paper 3: Kushal Bhaiya ERSUFormer
+Paper 4: Nilay Convunext
+Paper 5: Juniors MSHF pe Mamba Vision
+Paper 6: Thorasic Disease Wala
