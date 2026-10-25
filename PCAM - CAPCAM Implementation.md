@@ -18,3 +18,19 @@
 ├── scripts/      # Our setup, validation and Slurm job scripts
 └── notes/        # Paper-to-code discrepancies and decisions
 ```
+#### This is the Dataset End
+```
+/scratch/aadeshk/capcam-replication
+/scratch/aadeshk/capcam-replication/runs
+/scratch/aadeshk/capcam-replication/data
+/scratch/aadeshk/capcam-replication/data/chexpert
+/scratch/aadeshk/capcam-replication/data/nih
+/scratch/aadeshk/capcam-replication/cache
+/scratch/aadeshk/capcam-replication/checkpoints
+```
+
+### 25/10/2026:
+- The venv is in place
+- The repos are cloned
+- Set up the imports
+- Imported NIH metadata
